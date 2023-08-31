@@ -1,0 +1,52 @@
+#banner-part {
+    background-color: var(--tint-blue, #1C1E53);
+    padding-top: 218px;
+    padding-bottom: 128px;
+    /* background: url('../assets/banner\ right\ img.png'); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#banner-part .left_details .text h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 54px;
+    color: var(--white, #FFF);
+    font-weight: 600;
+    line-height: 74px;
+    width: 582px;
+}
+#banner-part .left_details .text p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: var(--white, rgba(255, 255, 255, 0.6));
+    font-weight: 500;
+    line-height: 28px;
+    width: 562px;
+    padding-top: 24px;
+    padding-bottom: 48px;
+    
+}
+#banner-part .left_details .banner_button .button1 {
+    font-family: 'Manrope', sans-serif; 
+    color: #1B1C2B;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px; 
+    padding: 16px 56px;  
+    background-color: #FCD980;
+    border-radius: 41px;
+    margin-right: 40px;
+}
+#banner-part .left_details .banner_button .button2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: var(--white, #FFF);
+    font-weight: 500;
+    line-height: 28px;
+}
+#banner-part .left_details .banner_button .button2 i {
+    margin-left: 16px;
+}
+#banner-part .right_img img {
+    width: 100%;
+}
